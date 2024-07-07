@@ -1,10 +1,10 @@
-# Blog Content Creation using Agents
+# Article Creation using Agents
 This project sets up agentic automated for planning, writing, and editing blog content using AI agents with crewAI.
 
 ## Installation
 First, ensure you have the necessary packages installed using pip.
 
-##Usage
+## Usage
 ### Setup
 1. Import necessary libraries and modules.
 
