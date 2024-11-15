@@ -27,4 +27,4 @@ The result will be a well-structured blog post ready for publication.
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE.txt).
